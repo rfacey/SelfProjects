@@ -8,3 +8,5 @@ Currently completed self projects:
 	-DecisionTree model to determine what factors attributed to Pokemon being added into the Pokemon game remake.
 [WorldOfWarcraft]
 	-Pulled WoW auctionhouse data from their API to find days to work the auctionouse for profit.
+
+Maybe make a powerpoint to present at data nerds meetup?
