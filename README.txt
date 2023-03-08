@@ -24,6 +24,12 @@ Currently completed self projects:
 		-The game has a large number of Pokemon from generation one.
 		-Will probably add to this project and do a lasso regression model instead (currently too many variables).
 		-Will play around with this one because of the inbalance in data.
+	-UPDATE:
+		-Found a Reddit post with a Pokemon popularity poll.
+		-Joined the popularity data to the data being used.
+		-Narrowed down data to distinct Pokemon, merging variants/multiple types.
+		-Narrowed attributes down based on statistical significance.
+		-Compared multiple models based on pros/cons of results.
 [WorldOfWarcraft]
 	-Problem:
 		-Wanted to find a way to work the WoW auction how to fund a character on a new server.
