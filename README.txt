@@ -43,3 +43,14 @@ Currently completed self projects:
 		-Second best time to sell was Saturday, but the average price differed more than Friday.
 		-Individual reagents did not have patterns on when to buy/sell.
 		-Holidays caused varying amounts to change to peak buy/sell days.
+[TCGPlayer]
+	-Problem:
+		-Wanted to find a way to predict card costs on new Pokemon card sets given historical data
+	-Solution:
+		-Scraped data for the top ten most expensive cards of each set from the TCGPlayer website
+		-Created trend lines for market price on each card
+		-Was planning on Google Trends data to tune a trend line on market price
+	-Conclusion:
+		-There was no best time to buy specific cards
+		-Tried both quadratic and cubic trends but both gave poor results
+		-Did not add in Google Trends data due to the underlying trend line being erratic
