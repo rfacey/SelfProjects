@@ -9,7 +9,7 @@ Currently completed self projects:
 		-Needed to find a way to confirm provider information to get a doctor appointment.
 	-Solution:
 		-Joined provider data from my insurance company to publicly available data to find a doctor appointment.
-		-Not data science, just practical analytics.
+		-Practical analytics.
 	-Conclusion:
 		-Narrowed it down to 26 providers.
 		-Chose my primary care provider based on proximity with good reviews.

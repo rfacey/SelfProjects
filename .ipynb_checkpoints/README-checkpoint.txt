@@ -9,7 +9,7 @@ Currently completed self projects:
 		-Needed to find a way to confirm provider information to get a doctor appointment.
 	-Solution:
 		-Joined provider data from my insurance company to publicly available data to find a doctor appointment.
-		-Not data science, just practical analytics.
+		-Practical analytics.
 	-Conclusion:
 		-Narrowed it down to 26 providers.
 		-Chose my primary care provider based on proximity with good reviews.
@@ -24,6 +24,12 @@ Currently completed self projects:
 		-The game has a large number of Pokemon from generation one.
 		-Will probably add to this project and do a lasso regression model instead (currently too many variables).
 		-Will play around with this one because of the inbalance in data.
+	-UPDATE:
+		-Found a Reddit post with a Pokemon popularity poll.
+		-Joined the popularity data to the data being used.
+		-Narrowed down data to distinct Pokemon, merging variants/multiple types.
+		-Narrowed attributes down based on statistical significance.
+		-Compared multiple models based on pros/cons of results.
 [WorldOfWarcraft]
 	-Problem:
 		-Wanted to find a way to work the WoW auction how to fund a character on a new server.
@@ -37,3 +43,14 @@ Currently completed self projects:
 		-Second best time to sell was Saturday, but the average price differed more than Friday.
 		-Individual reagents did not have patterns on when to buy/sell.
 		-Holidays caused varying amounts to change to peak buy/sell days.
+[TCGPlayer]
+	-Problem:
+		-Wanted to find a way to predict card costs on new Pokemon card sets given historical data
+	-Solution:
+		-Scraped data for the top ten most expensive cards of each set from the TCGPlayer website
+		-Created trend lines for market price on each card
+		-Was planning on Google Trends data to tune a trend line on market price
+	-Conclusion:
+		-There was no best time to buy specific cards
+		-Tried both quadratic and cubic trends but both gave poor results
+		-Did not add in Google Trends data due to the underlying trend line being erratic
