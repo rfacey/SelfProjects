@@ -1,0 +1,31 @@
+May 8 - June 2
+
+Thank you for applying to join the virtual AI Summer May 8 – June 2. We’ve reviewed your application, and we’re very pleased to be able to invite you to join us!
+
+Our workshop will be virtual via Zoom. The first week will be dedicated to Python for Deep Learning, and the following weeks will be dedicated to AI topics using Transformers. Note that the first week follows a slightly different schedule:
+
+Week 1 Introduction to Transformer Models, Generative AI, and Prompt Engineering
+5/8-5/12
+Tuesday, Wednesday, Thursday
+9am-11am; Office Hour 11am-12pm CDT
+
+Weeks 2 AI-Assisted Programming for AI (yes, very meta)
+5/15-5/19
+Mondays, Wednesdays, Fridays
+9am-11am; Office Hour 11am-12pm CDT
+
+Weeks 3-4 Building AI Systems / Training AI Models
+5/22-6/2
+Mondays, Wednesdays, Fridays
+9am-11am; Office Hour 11am-12pm CDT
+
+You do not need to have much experience in Python. In Week 1 we will introduce Transformer models, the basis for ChatGPT and other generative AI models, as well as a wide variety of other AI models covering text, images, speech, video, and more. We will be teaching AI-assisted Python in Week 2 (more advanced programmers should also attend these sessions). If you have little or no experience with Python, or have no experience using Jupyter notebooks, we’ll have a special extra session to introduce you to these tools! The remainder of the sessions will have two tracks, one covering build complete AI solutions, and the other covering training and fine tuning models. 
+
+In preparation for the workshop, please complete the following:
+
+Sign up for a Google Collaboratory account. The free account should be sufficient, but you will get more compute (and longer running times) if you sign up for Colab Pro at ~$5/month.
+Sign up for a Hugginface.co account. Again, the free account should be sufficient.
+To get a jump start on the material, visit the Huggingface.co course on Transformers and watch the introductory videos.
+Suggested: Preview the book Natural Language Processing with Transformers by Lewis Tunstall, Leandro von Werra and Thomas Wolf. If you are affiliated with Vanderbilt University, you can access this pre-print book (and any book by O’Reilly) free by logging into O'Reilly Media using your Vanderbilt email address. Vanderbilt licenses all content from O’Reilly. The book covers Transformers for purposes beyond text. 
+Think about any data you might want to bring to the workshop. Also begin thinking about any projects you might want to accomplish during our month. We’ll have office hours for you to work with us to get your first project off the ground!
+ If you have questions, or would like to discuss possible projects, please feel free to email or to schedule a time with us at https://calendly.com/dsi-data-science-team/research-consultation. 
