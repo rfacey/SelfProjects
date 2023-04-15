@@ -29,3 +29,5 @@ To get a jump start on the material, visit the Huggingface.co course on Transfor
 Suggested: Preview the book Natural Language Processing with Transformers by Lewis Tunstall, Leandro von Werra and Thomas Wolf. If you are affiliated with Vanderbilt University, you can access this pre-print book (and any book by O’Reilly) free by logging into O'Reilly Media using your Vanderbilt email address. Vanderbilt licenses all content from O’Reilly. The book covers Transformers for purposes beyond text. 
 Think about any data you might want to bring to the workshop. Also begin thinking about any projects you might want to accomplish during our month. We’ll have office hours for you to work with us to get your first project off the ground!
  If you have questions, or would like to discuss possible projects, please feel free to email or to schedule a time with us at https://calendly.com/dsi-data-science-team/research-consultation. 
+
+https://books.google.com/books?id=8plxEAAAQBAJ&dq=Natural+Language+Processing+with+Transformers+by+Leandro+von+Werra,+Lewis+Tunstall,+Thomas+Wolf+reddit
