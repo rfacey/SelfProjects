@@ -5,7 +5,7 @@ Currently completed self projects:
 [FindingDoctor]
 	-Problem: 
 		-Recieved a list of providers from my insurance company. 
-        -Provider information was incorrect.
+        	-Provider information was incorrect.
 		-Needed to find a way to confirm provider information to get a doctor appointment.
 	-Solution:
 		-Joined provider data from my insurance company to publicly available data to find a doctor appointment.
