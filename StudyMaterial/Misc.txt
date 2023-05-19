@@ -1,1 +1,2 @@
 20230518 - Studied C# for work.
+20230519 - Studied C# for work. Used references in .NET to get a program to work.
