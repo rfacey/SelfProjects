@@ -1,0 +1,4 @@
+C:\Users\rober\Desktop\DataScience\SelfProjects\StudyMaterial\CSharp\02 Create and run simple CSharp console applications\CsharpProjects\TestProject\obj\Debug\netcoreapp3.1\TestProject.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\DataScience\SelfProjects\StudyMaterial\CSharp\02 Create and run simple CSharp console applications\CsharpProjects\TestProject\obj\Debug\netcoreapp3.1\TestProject.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\DataScience\SelfProjects\StudyMaterial\CSharp\02 Create and run simple CSharp console applications\CsharpProjects\TestProject\obj\Debug\netcoreapp3.1\TestProject.AssemblyInfo.cs
+C:\Users\rober\Desktop\DataScience\SelfProjects\StudyMaterial\CSharp\02 Create and run simple CSharp console applications\CsharpProjects\TestProject\obj\Debug\netcoreapp3.1\TestProject.csproj.CoreCompileInputs.cache
